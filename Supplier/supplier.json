@@ -1,0 +1,5 @@
+[
+{"ID":"1001","Supplier":"A","Buyer":"B","product":"flooring","units sold":"20","price per unit":"$5","total amount":"$100","location":"loc1","time":"01:00:00 PM","date":"06/02/2023"},
+{"ID":"1001","Supplier":"B","Buyer":"C","product":"flooring","units sold":"15","price per unit":"$7","total amount":"$105","location":"loc2","time":"03:05:00 PM","date":"06/03/2023"},
+{"ID":"1001","Supplier":"C","Buyer":"D","product":"flooring","units sold":"12","price per unit":"$9","total amount":"$108","location":"loc3","time":"02:35:00 PM","date":"06/06/2023"}
+]
